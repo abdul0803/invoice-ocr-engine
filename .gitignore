@@ -1,0 +1,5 @@
+invoice-ai/data/raw/
+*.csv
+*.tsv
+*.json
+*.zip
