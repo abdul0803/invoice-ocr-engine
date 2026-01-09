@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw datasets (never commit)
+invoice-ai/data/raw/
+
+# Debug / generated OCR outputs
+debug/
+scripts/outputs/
+
+# Large archives
+*.zip
+
+# CSV/TSV only if generated (optional)
+*.csv
+*.tsv
+
+# Jupyter
+.ipynb_checkpoints/

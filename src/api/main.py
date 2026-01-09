@@ -1,2 +1,1 @@
-print("hello world")
-print ("Free Diddy")
+#for week 2
